@@ -1,2 +1,2 @@
-api: npm run --prof api
-client: npm run --prof dev
+api: npm run api
+client: npm run dev
